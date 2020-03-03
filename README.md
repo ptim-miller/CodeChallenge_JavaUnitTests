@@ -1,4 +1,4 @@
-# CodeChallenge - Java Unit Test
+# CodeChallenge - Java Unit Tests
 
 This project serves as an initial intro to unit testing. It contains a simple class, interface and test file.
 
